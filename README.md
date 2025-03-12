@@ -1,5 +1,7 @@
 # Core_System
 A Core System for AMR Robot and Manipulator
+
+![Node](<Node.png>)
 ### Pre_Requirement
 - ROS2 Humble
 
