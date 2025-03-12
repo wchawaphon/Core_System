@@ -99,6 +99,10 @@ And this messages will appears in the `core_system_node.py` terminal after all t
   [INFO] [1741807194.613128646] [core_system_node]: All stations completed.
   [INFO] [1741807194.620213219] [core_system_node]: Starting manipulator.
   ```
+### Demo
+**Click To Watch**
+[Demo Core System](https://youtu.be/rdJd3BHTwDM)
+
 **This project is not finish and not finalized yet**
 
 ### Future Develop Plans
