@@ -106,7 +106,7 @@ And this messages will appears in the `core_system_node.py` terminal after all t
 **This project is not finish and not finalized yet**
 
 ### Future Develop Plans
-- Add an GUI to make it easier to use
+- Add a GUI to make it easier to use
 - Integrated with AMR and Manipulator 
 
 ### Developer
